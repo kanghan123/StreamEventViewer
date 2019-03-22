@@ -1,0 +1,8 @@
+html, 
+body,
+#root {
+    height: 100%;
+    padding: 20;
+    background-color: #eeeeee;
+
+}
