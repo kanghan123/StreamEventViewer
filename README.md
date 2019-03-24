@@ -1,3 +1,5 @@
+## Lab
+
 - demo: https://streamlabs-frontend.herokuapp.com/ (running under development server)
 - source: https://github.com/khan08/StreamerEventViewer/
 Around 4 hours are spent on this project. Due to the time constraint, this web app has lots of room to improve. Looking back it might be better to use a MVC framework like Laravel or Django for a quick prototypeThis web app is developed in flask with socket.IO and reactJS. 
