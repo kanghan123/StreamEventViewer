@@ -50,7 +50,7 @@ For a huge growth from 100reqs/day to 900MM reqs/day:
 - Levraging RDS read replicas could be helpful depending on the number of user.
 - Cache layer: CDN handles the page request cache. Adding another cache layer for the web service and db can improve performance. 
 
-All of the above changes in theory would not cause downtime.
+- All of the above changes in theory would not cause downtime.
 =======
 
 
